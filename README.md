@@ -4,6 +4,7 @@ This is a Sudoku auto-completer written in python. It reads in a grid from a loc
 
 How it works(In-depth):
   This program reads in a sudoku grid as a csv from "grid.txt". I included an example of the format but I will provide another example here:
+  
   \n = new line
   
 0,0,0,8,0,0,4,0,0\n
